@@ -534,7 +534,7 @@ const file_order_proto_rawDesc = "" +
 	"\x06orders\x18\x01 \x03(\v2\t.pb.OrderR\x06orders2\xa4\x01\n" +
 	"\fOrderService\x12:\n" +
 	"\tPostOrder\x12\x14.pb.PostOrderRequest\x1a\x15.pb.PostOrderResponse\"\x00\x12X\n" +
-	"\x13GetOrdersForAccount\x12\x1e.pb.GetOrdersForAccountRequest\x1a\x1f.pb.GetOrdersForAccountResponse\"\x00B9Z7github.com/apk471/go-grpc-graphql-microservice/order/pbb\x06proto3"
+	"\x13GetOrdersForAccount\x12\x1e.pb.GetOrdersForAccountRequest\x1a\x1f.pb.GetOrdersForAccountResponse\"\x00B9Z7github.com/ayush-amin/go-grpc-graphql-microservice/order/pbb\x06proto3"
 
 var (
 	file_order_proto_rawDescOnce sync.Once

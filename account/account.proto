@@ -2,7 +2,7 @@ syntax = "proto3";
 package pb;
 
 // go_package is the full Go import path for the generated code; required by protoc-gen-go
-option go_package = "github.com/apk471/go-grpc-graphql-microservice/account/pb";
+option go_package = "github.com/ayush-amin/go-grpc-graphql-microservice/account/pb";
 
 message Account {
     string id = 1;

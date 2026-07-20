@@ -3,7 +3,7 @@ package account
 import (
 	"context"
 
-	"github.com/apk471/go-grpc-graphql-microservice/account/pb"
+	"github.com/ayush-amin/go-grpc-graphql-microservice/account/pb"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

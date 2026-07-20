@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/apk471/go-grpc-graphql-microservice/account"
+	"github.com/ayush-amin/go-grpc-graphql-microservice/account"
 	"github.com/kelseyhightower/envconfig"
 	"github.com/tinrab/retry"
 )
