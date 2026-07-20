@@ -116,7 +116,7 @@ Manages orders with cross-service communication.
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:apk471/go-grpc-graphql-microservice.git
+git clone git@github.com:ayush-amin/go-grpc-graphql-microservice.git
 cd go-grpc-graphql-microservice
 ```
 

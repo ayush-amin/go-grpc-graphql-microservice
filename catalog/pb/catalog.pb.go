@@ -424,7 +424,7 @@ const file_catalog_proto_rawDesc = "" +
 	"\vPostProduct\x12\x16.pb.PostProductRequest\x1a\x17.pb.PostProductResponse\"\x00\x12=\n" +
 	"\n" +
 	"GetProduct\x12\x15.pb.GetProductRequest\x1a\x16.pb.GetProductResponse\"\x00\x12@\n" +
-	"\vGetProducts\x12\x16.pb.GetProductsRequest\x1a\x17.pb.GetProductsResponse\"\x00B;Z9github.com/apk471/go-grpc-graphql-microservice/catalog/pbb\x06proto3"
+	"\vGetProducts\x12\x16.pb.GetProductsRequest\x1a\x17.pb.GetProductsResponse\"\x00B;Z9github.com/ayush-amin/go-grpc-graphql-microservice/catalog/pbb\x06proto3"
 
 var (
 	file_catalog_proto_rawDescOnce sync.Once

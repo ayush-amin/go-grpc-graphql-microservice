@@ -1,4 +1,4 @@
-module github.com/apk471/go-grpc-graphql-microservice
+module github.com/ayush-amin/go-grpc-graphql-microservice
 
 go 1.25.6
 
